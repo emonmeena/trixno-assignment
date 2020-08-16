@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/trix/static/css/main.42c188cc.chunk.css",
+    "main.js": "/trix/static/js/main.9b04c385.chunk.js",
+    "main.js.map": "/trix/static/js/main.9b04c385.chunk.js.map",
+    "runtime-main.js": "/trix/static/js/runtime-main.12bebf87.js",
+    "runtime-main.js.map": "/trix/static/js/runtime-main.12bebf87.js.map",
+    "static/js/2.d1ea5ba6.chunk.js": "/trix/static/js/2.d1ea5ba6.chunk.js",
+    "static/js/2.d1ea5ba6.chunk.js.map": "/trix/static/js/2.d1ea5ba6.chunk.js.map",
+    "index.html": "/trix/index.html",
+    "precache-manifest.6ee452220c9e26c04f4d46769e997e46.js": "/trix/precache-manifest.6ee452220c9e26c04f4d46769e997e46.js",
+    "service-worker.js": "/trix/service-worker.js",
+    "static/css/main.42c188cc.chunk.css.map": "/trix/static/css/main.42c188cc.chunk.css.map",
+    "static/js/2.d1ea5ba6.chunk.js.LICENSE.txt": "/trix/static/js/2.d1ea5ba6.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/trix/static/media/1.cfe6d7aa.jpg",
+    "static/media/2.jpg": "/trix/static/media/2.5a952180.jpg",
+    "static/media/am.jpg": "/trix/static/media/am.98d44651.jpg",
+    "static/media/av.jpg": "/trix/static/media/av.45e281b4.jpg",
+    "static/media/bw.jpg": "/trix/static/media/bw.949d9a29.jpg",
+    "static/media/hb.jpg": "/trix/static/media/hb.14ca93ee.jpg",
+    "static/media/im.png": "/trix/static/media/im.09766d06.png",
+    "static/media/im2.jpg": "/trix/static/media/im2.eb3c8802.jpg",
+    "static/media/iw.jpg": "/trix/static/media/iw.dd46b1ad.jpg",
+    "static/media/jl.jpg": "/trix/static/media/jl.801bb60b.jpg",
+    "static/media/joker.jpg": "/trix/static/media/joker.75651c79.jpg",
+    "static/media/joker2.jfif": "/trix/static/media/joker2.2cfcceff.jfif",
+    "static/media/left-arrow.svg": "/trix/static/media/left-arrow.34a4f31c.svg",
+    "static/media/left-arrow.png": "/trix/static/media/left-arrow.dc02507f.png",
+    "static/media/right-arrow.svg": "/trix/static/media/right-arrow.5e5b72cc.svg",
+    "static/media/sr.jpg": "/trix/static/media/sr.6bc38752.jpg",
+    "static/media/venom.jpg": "/trix/static/media/venom.4496c1c7.jpg",
+    "static/media/ww.jpg": "/trix/static/media/ww.cf51b3e0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12bebf87.js",
+    "static/js/2.d1ea5ba6.chunk.js",
+    "static/css/main.42c188cc.chunk.css",
+    "static/js/main.9b04c385.chunk.js"
+  ]
+}
